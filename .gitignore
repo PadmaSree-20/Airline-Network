@@ -1,0 +1,44 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data files (adjust as needed)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+
+# Output and figures (optional, keep if generated)
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# IDE and editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and outputs
+*.log
+*.out
+
+# Mac/Linux hidden files
+*.swp
+*~
